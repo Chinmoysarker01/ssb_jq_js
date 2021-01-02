@@ -1,2 +1,2 @@
-# js_jq_function
-joha
+# js & jq
+https://chinmoysarker01.github.io/ssb_jq_js/
